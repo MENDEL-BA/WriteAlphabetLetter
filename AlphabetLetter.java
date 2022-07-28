@@ -4,7 +4,7 @@ class Main {
     for(int i = 0 ; i <=26; i++){
        
      System.out.println(" " + (char)(i + 'a' - 1));
-      System.out.println("\t ");
+      System.out.println("\n ");
      }
   }
 }
